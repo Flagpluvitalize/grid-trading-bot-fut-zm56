@@ -1,4 +1,4 @@
-# 
+# quantitative Automation Script for grid trading bot for futures | price-monitoring + position-sizing offers the most advanced grid trading bot for futures, with price-monitoring
 
 
 
